@@ -1,0 +1,19 @@
+title: "StarDragon"
+subtitle: "L3 Certification Rocket Proposal"
+authors:
+  - name: "Evan (Surge) Floyd"
+    email: "esfloyd9341@gmail.com"
+date: last-modified
+
+format:
+  pdf:
+    header-include: |
+      \usepackage{graphicx}
+      \usepackage{adjustbox}
+    documentclass: report
+    geometry: margin=1in
+    titlepage: true
+    toc: true
+    number-sections: true
+
+
