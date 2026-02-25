@@ -1,5 +1,8 @@
 .quarto/
 
-*/**/*.FCBak
+order_sheets/
 
+*.FCBak
+*.bak
+.~**.od*
 *.pdf
